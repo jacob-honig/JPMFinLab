@@ -8,7 +8,7 @@ The financial solutions lab is $50 million dollar 10 year initiative which is ma
 The main initiative is to cultivate, scale, and support innovative ideas that advance the financial health of low to moderate income and historically underserved communities. Focused on supporting populations facing acute and persistent financial health challenges which include older adults, people with disabilities, women and people of color. 
 
 # Who are their competitors?
-The competitors of JPM Finlab are both traditional banks and smaller innovative fintech firms that are in the banking, investment, and lending spaces. In particular, large financial institutions with sizable consumer ba
+The competitors of JPM Finlab are both traditional banks and smaller innovative fintech firms that are in the banking, investment, and lending spaces. In particular, large financial institutions with a sizable consumer base in LMI communities. 
 
 # How does this company use technology to their advantage?
 Financial Solutions Lab hopes to sponsor several, large-scale fintech projects that support ideas to advance the financial health of low- to moderate-income communities. They use their relationship with existing developers, FinTech professionals, and institutions to gain access to data that will increase the efficiencies of these projects as time progresses. 
